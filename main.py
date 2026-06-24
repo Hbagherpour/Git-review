@@ -5,7 +5,7 @@ Name = "Ring my bells"
 Artist = "Enrique lglesias"
 Genre = "Disco"
 Year_released = 1979
-Length = 4.28
+Length = 4.38
 # the duration has been written in minutes.
 
 print(Name)
