@@ -6,6 +6,7 @@ Artist = "Enrique lglesias"
 Genre = "Disco"
 Year_released = 1979
 Length = 4.29
+Country = "Spain"
 # the duration has been written in minutes.
 
 print(Name)
@@ -13,3 +14,4 @@ print(Artist)
 print(Genre)
 print(Year_released)
 print(Length)
+print(Country)
